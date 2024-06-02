@@ -3,3 +3,4 @@ logs/**.txt
 test/
 
 *.pyc
+.DS_Store
